@@ -12,4 +12,4 @@
 
 # cd facebook
 
-#c6f015 python2 facebook.py
+#python2 facebook.py
