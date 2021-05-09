@@ -61,11 +61,11 @@ def jalan(z):
 #########LOGO#########
 logo = """
 ════════════════════════════════════════════════
-   {×} Author        > Syamsul Hakim
-   {×} Cyber          > MUSLIM ARMY CYBER
-   {×} WhatsApp  > 08180889954x
+   {×} Author     > Syamsul Hakim
+   {×} Cyber      > MUSLIM ARMY CYBER
+   {×} WhatsApp   > 08180889954x
    {×} Facebook   > facebook/syamsul.hakim.000
-   {×} Instagram   >
+   {×} Instagram  > matahari.bijaksana
 ════════════════════════════════════════════════
 """
 def tik():
