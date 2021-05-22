@@ -17,9 +17,6 @@ try:
 	import requests
 except ImportError:
                os.system("pip2 install requests")
-	os.system("python2 facebook.py")
-from requests.exceptions import ConnectionError
-from mechanize import Browser 
 
 reload(sys)
 sys.setdefaultencoding('utf8')
