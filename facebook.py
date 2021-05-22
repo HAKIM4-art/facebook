@@ -61,8 +61,8 @@ logo = """
    {×} Author     > Syamsul Hakim
    {×} Cyber      > MUSLIM ARMY CYBER
    {×} WhatsApp   > 08180889954x
-   {×} Facebook   > facebook/syamsul.hakim.000
-   {×} Instagram  > matahari.bijaksana
+   {×} Facebook   > facebook/syamsul.hakim.2007
+   {×} Instagram  > syamsul_hakim31
 ════════════════════════════════════════════════
 """
 def tik():
